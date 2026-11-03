@@ -1,0 +1,6 @@
+# Ignore CSV data files
+*.csv
+
+# Ignore specific log or temp files
+*.log
+temp/
